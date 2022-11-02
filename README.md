@@ -352,6 +352,9 @@ main();
 ## Contoh Soal: </p>
 ![Soal](screenshot/soal.png) </p>
 
+## Output.
+Dari soal diatas kita disuruh untuk mengencripsi menggunakan Affine Cipher, Dengan <b> Plaintext : UPB, Kata Kunci Pertama : 5, dan Kata Kunci Kedua : 8. </b> Berikut adalah Output programnya: </p>
+![Output](screenshot/output.png)</p>
 
 
 

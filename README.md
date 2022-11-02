@@ -349,4 +349,9 @@ main();
 ```
 </p>
 
+## Contoh Soal: </p>
+![Soal](screenshot/soal.png) </p>
+
+
+
 

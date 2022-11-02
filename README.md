@@ -23,3 +23,14 @@ a^-1 : modular multiplicative inverse of a modulo m. i.e., it satisfies the equa
 ```
 </p>
 
+## To find a multiplicative inverse  </p>
+
+Kita perlu mencari bilangan x sehingga: </p>
+Jika kita menemukan bilangan x sedemikian rupa sehingga persamaannya benar, maka x adalah invers dari a, dan kita menyebutnya <b> a^-1. </b> Cara termudah untuk menyelesaikan persamaan ini adalah dengan mencari setiap angka 1 sampai 25, dan melihat mana yang memenuhi persamaan. </p>
+
+```
+[g,x,d] = gcd(a,m);    % we can ignore g and d, we dont need them
+x = mod(x,m); 
+```
+</p>     
+
